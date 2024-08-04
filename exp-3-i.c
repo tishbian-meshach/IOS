@@ -1,3 +1,4 @@
+//Program for simulation of cp unix commands
 #include <stdio.h>
 #include <stdlib.h> // For exit function
 
