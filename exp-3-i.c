@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
     filePointer = fopen(argv[1], "r");
     if (filePointer == NULL) {
         printf("Unable to open file: %s\n", argv[1]);
-        return 1;
+        exit(1);
     }
 
     // Read the file character by character and count spaces
