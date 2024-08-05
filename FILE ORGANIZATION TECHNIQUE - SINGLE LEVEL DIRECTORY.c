@@ -1,4 +1,4 @@
-//FILE ORGANIZATION TECHNIQUE - //SINGLE LEVEL DIRECTORY
+//FILE ORGANIZATION TECHNIQUE - SINGLE LEVEL DIRECTORY
 #include <stdio.h>
 #include <stdlib.h>
 #include <graphics.h>
